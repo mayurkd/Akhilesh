@@ -1,6 +1,2 @@
-#dEMO GIT REPOSITORY
-this is the first file in this repo.
+Hello my name is mayur developer-1
 
-#IPsum Below 
-
-abcedkafdsj
